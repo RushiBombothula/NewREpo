@@ -1,2 +1,2 @@
 # NewREpo
-Git program commands
+Git program commands.This is just an practice sample
